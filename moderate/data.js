@@ -1,4 +1,4 @@
-window.audios = [
+export default  [
 
     {
       title: "5 dicas para uma carreira sólida como programador",

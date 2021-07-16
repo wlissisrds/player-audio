@@ -1,4 +1,8 @@
-window.player = {
+
+import audios from "./data";
+import {path} from "./utils";
+
+export default player = {
 
     cover: document.querySelector(".card-image"),
     title: document.querySelector(".card-content h5"),
