@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+
+import audios from "./data";
+import {path} from "./utils";
+
+export default player = {
+>>>>>>> 1b50fd3ad02a88885cdf8673cc37d5d818e01fa8
 
 import audios from "./data.js";
 import { path } from "./utils.js";
